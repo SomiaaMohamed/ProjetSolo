@@ -45,6 +45,7 @@ exports.getMotRandom = async function(req,res){
     })
     // let number= random.int(min=1,max=5);
     // res.json(number)
+    //rest
 }
 
 exports.deletMot = async function(req,res){
